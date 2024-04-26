@@ -1,2 +1,7 @@
 # git-practice
-Repo to practice git commands
+**Name**: Emmanuel Ajayi
+**Location**: London / Bristol
+**Languages**:
+  - JavaScript
+  - Java
+  - Typescript
